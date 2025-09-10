@@ -165,7 +165,7 @@ const App = () => {
           className="intro-video"
           poster="/api/placeholder/1920/1080"
         >
-          <source src="v3.mp4" type="video/mp4" />
+          <source src="v2.mp4" type="video/mp4" />
           <div className="video-fallback"></div>
         </video>
 
